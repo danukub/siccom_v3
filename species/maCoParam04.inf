@@ -1,0 +1,18 @@
+Value	|	Variable	|	Description
+maco04		|	name			| The coral group's name
+111,111,111			|	color			| The initial color
+5.86			|	CI			| Competition Index
+150.00			|	maxIniRadius		| maximum radius (cm) of a coral when the simulation is initialized
+300.00			|	maxRadius		| The maximum radius (cm) for a colony
+18.30			|	growthRate		| The initial radial growth rate (mm/year)
+5.00			|	coveredArea		| Percentage of covered Area (%)
+8.0			|	diamAtMaturity		| The diameter at which a colony is considered as mature (cm)
+1.29			|	surfaceFactor		| The factor to adjust the real surface area of a hemispherical surface area
+1008.58			|	propagulesPerSqCm	| The number of propagules produced per cm²
+1.0E-8			|	retainFactor		| Determines how many recruits settle from a stock-recruitment relationship
+2.89			|	recRad			| The radius (cm) of recruit polyps on settling
+11			|	recFirst		| first month of recruitment as number
+12			|	recInterval		| Recruitment Interval (cm)
+0			|	recNumberPerSqM		| Number of recruits per m² per recruitment event
+0.208			|	minBleachProb		| The minimum temperature where corals become subject to bleaching
+0.196			|	minDeathProb		| The minimum temperature from which the DeathProb is calculated from

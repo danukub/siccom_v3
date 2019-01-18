@@ -1,0 +1,16 @@
+Value	  	| Variable	   			|Description  
+Alga	  	| name         			| The name of the alga
+000,255,000	| color					| The color for algae
+  17.5	  	| aMaxRadius			| The maximum radius for an alga
+  60.0	  	| aMaxHeight			| The maximum height (cm) for an alga 
+    12	  	| algaMaxAge			| The maximum duration of an alga in the simulation in month
+  30.0   	| aGrowthRate			| The initial growth rate (mm/month) 
+  30.0	 	| aFragmentationHeight	| The height (cm) of an alga from which on fragmentation can occur
+   2 	  	| aMaxFragNum			| The maximal number of fragments an alga can produce	 
+   5.0	  	| aFragmentSize			| The size of an algal fragment
+   5 	  	| aFragRange			| The radial range for an algal fragment where it settles in meters
+   20	  	| algalCoverPercent		| Percentage of covered Area
+    0.5	  	| algaRecRad			| The radius (cm) of algal recruits 
+   	2  	  	| algaRecFirst			| first month of recruitment as number
+    12	  	| algaRecInterval		| Recruitment Interval
+ 	0.5	  	| algaRecNumPerSqM		| Number of recruits per recruitment event

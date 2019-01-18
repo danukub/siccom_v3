@@ -1,0 +1,7 @@
+Value	  | Variable	   	| Description  
+40		  | areaWidth      	| The width of the simulation area in meters
+40		  | areaHeight     	| The height of the simulation area in meters
+7		  | resolution		| The resolution cm/pixel
+10		  | maCoNum     	| The number of massive coral functional groups
+10		  | braCoNum     	| The number of branching coral functional groups
+600		  | indivOutInter	| The interval for individual output

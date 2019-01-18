@@ -1,0 +1,32 @@
+Value	  | Variable	   		|Description  
+4		  | disturbMaxSize1		|The maximum size of a disturbed area in meters
+2		  | disturbMinSize1		|The minimum size of a disturbed area in meters
+6	  	  | disturbMeanInterval1|The mean interval between disturbance events in months
+10		  | disturbSDInterval1 	|The relative standard deviation of the mean disturbance interval
+1		  | disturbMaxNumber1	|The maximum number of simultaneous disturbance events
+10		  | disturbMaxSize2		|The maximum size of a disturbed area in meters
+5		  | disturbMinSize2		|The minimum size of a disturbed area in meters
+12		  | disturbMeanInterval2|The mean interval between disturbance events in months
+10		  | disturbSDInterval2  |The relative standard deviation of the mean disturbance interval
+1		  | disturbMaxNumber2	|The maximum number of simultaneous disturbance events
+1		  | maxDisBreakProb		|The maximum probability for a coral to die in a disturbance event
+0.75 	  | minDisBreakProb		|The minimum probability for a coral to die in a disturbance event
+5r0		  | longTermYears		|The amount of years from which a long-term mean summer temperature is calculated
+40	  	  | minDHD				|Threshold of degree heating days from which bleaching probs are calculated
+3.5		  | maxHR				|The maximal heat rate at which all corals bleach and die
+0.85  	  | minHR				|The heat rate from which on bleaching values are calculated.
+8	  	  | bleachInterval		|The interval between bleaching events in years
+1.0		  | coralRecImportFactor|Allows to set the "connectivity" of the reef	
+0.001	  | breakageProb		|The probability for breakage of a single standing branching coral
+0.001	  | fragProb			|The probability for fragmenting
+5		  | fragRange			|The range (meters) in which a fragment settles
+75.0	  | dieOvergrowthMas	|Percentage of focal massive coral's covered area covered by other organism to kill the focal coral
+75.0	  | dieOvergrowthBra	|Percentage of focal branching coral's covered area covered by other organism to kill the focal coral
+0.25	  | grazingProb			|Herbivory: The monthly probability for an alga to be grazed
+5		  | iniAlgalThreshold   |The percentage of algal coverage on free space
+1		  | turfResolution		|The width of a turf cell in meters
+false	  | constTemp			|No small bleaching events occur other than the extreme ones
+true	  | gradualTempIncrease |Determines if temperature increases gradually over time. (each year)
+0	 	  | totalTempIncrease	|The total amount of temperature increase over time.
+90		  | increaseYears		|The amount of years during which the temperature increases.
+1		  | ciFactor			|The factor for how strong the effect of direct competition is.
