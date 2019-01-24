@@ -17,8 +17,20 @@ An article in which this model is applied and described in more detail can be fo
 <br/>
 
 ## Wanna play?
-<a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.jar" 
-alt="Runnable JAR File (siccom_os_v3.jar) within the project" />Runnable JAR File</a> to play with the simulation. You can also alter model parameters and investigate their influence on the virtual coral community.
+
+<p>
+  <img src="https://github.com/danukub/siccom_v3/blob/master/ReefView_siccom.png" alt="reef view pic" width="150" height="150"              align="left" > 
+  <a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.jar" 
+  alt="Runnable JAR File (siccom_os_v3.jar) within the project" />
+    Runnable JAR File
+  </a> 
+  to play with the simulation. You can also alter model parameters and investigate their influence on the virtual coral community.
+</p>
+
+<br/>
+<br/>
+<br/>
+
 ### Interesting parameters to play with (environment config)
 - bleachInterval (0 means no major bleaching events at all)
 - longTermYears
