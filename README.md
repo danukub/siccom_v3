@@ -15,6 +15,7 @@ Life history characteristics of macroalgae, such as reproduction, growth, maximu
 An article in which this model is applied and described in more detail can be found at:
 -- link will be added asap -- 
 <br/>
+<br/>
 
 ### Wanna play?
 <a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.jar" 
