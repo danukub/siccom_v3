@@ -1,5 +1,4 @@
 # SICCOM - Spatial Interaction in Coral Reef Communities
-
 ## Version 3.0 - Climate change drives trait-shifts in coral reef communities
 The program allows the simulation of spatial dynamics in a benthic coral reef community under various environmental settings in monthly iterations. Several coral species, with either massive or branching colony growth morphologies are implemented as individual colonies, which compete for space with each other as well as with macroalgae.
 
@@ -17,27 +16,29 @@ An article in which this model is applied and described in more detail can be fo
 <br/>
 <br/>
 
-### Wanna play?
+## Wanna play?
 <a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.jar" 
-alt="Runnable JAR File (siccom_os_v3.jar) within the project" />Runnable JAR File</a> to play with the simulation. 
+alt="Runnable JAR File (siccom_os_v3.jar) within the project" />Runnable JAR File</a> to play with the simulation. You can also alter model parameters and investigate their influence on the virtual coral community.
+### Interesting parameters to play with (environment config)
+- bleachInterval (0 means no major bleaching events at all)
+- longTermYears
+- fragProb & fragRange
+- breakageProb
 
-With this program you can see what happens during simulations. You can also alter model parameters and investigate their influence on the virtual coral community.
-
-#### Important
+### Important
 - You have to have a Java Runtime Environment installed
 - The "species" directory has to be placed in the same directory as "siccom_os_v3.jar"
-#### Run
+
+### Run
 double-click the jar file
 
 or use the command line (e.g. bash)
 ```bash
-$#: java -jar siccom
+$#: java -jar siccom_os_v3.jar
 ``` 
 <br/>
-    
 
-
-### Required JAR files to make it run in your favorite IDE
+## Required JAR files to make it run in your favorite IDE
 - Mason 16
 - diva-0.3.jar
 - j3dcore.jar   
