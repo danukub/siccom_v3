@@ -13,12 +13,30 @@ Life history characteristics of macroalgae, such as reproduction, growth, maximu
 
 
 An article in which this model is applied and described in more detail can be found at:
--- soon to be added -- 
+-- link will be added asap -- 
+<br/>
+
+### Wanna play?
+<a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.jar" 
+alt="Runnable JAR File (siccom_os_v3.jar) within the project" />Runnable JAR File</a> to play with the simulation. 
+
+With this program you can see what happens during simulations. You can also alter model parameters and investigate their influence on the virtual coral community.
+
+#### Important
+- You have to have a Java Runtime Environment installed
+- The "species" directory has to be placed in the same directory as "siccom_os_v3.jar"
+#### Run
+double-click the jar file
+
+or use the command line (e.g. bash)
+```bash
+$#: java -jar siccom
+``` 
+<br/>
+    
 
 
-
-
-#### Required JAR files
+### Required JAR files to make it run in your favorite IDE
 - Mason 16
 - diva-0.3.jar
 - j3dcore.jar   
