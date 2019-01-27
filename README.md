@@ -24,11 +24,10 @@ An article in which this model is applied and described in more detail can be fo
   alt="Runnable program" />
     Runnable program
   </a> 
-  to play with the simulation. You can also alter model parameters and investigate their influence on the virtual coral community.
+  to play with the simulation. 
+  You can also alter model parameters and investigate their influence on the virtual coral community. They can either be changed in the running program by using respective tabs of the console panel, or you can directly adjust the config files with the "species" directory.
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ### Interesting parameters to play with (environment config)
