@@ -27,7 +27,7 @@ An article in which this model is applied and described in more detail can be fo
   to play with the simulation. 
   
   
-  You can also alter model parameters and investigate their influence on the virtual coral community. They can either be changed in the running program by using respective tabs of the console panel, or you can directly adjust the config files with the "species" directory.
+  You can also alter model parameters and investigate their influence on the virtual coral community. They can either be changed in the running program by using respective tabs of the console panel, or you can directly adjust the config files within the "species" directory.
 </p>
 
 <br/>
@@ -45,7 +45,7 @@ An article in which this model is applied and described in more detail can be fo
 #### Important
 - You have to have a Java Runtime Environment installed
 
-### Run
+### Run the program
 double-click the jar file
 
 or use the command line (e.g. bash)
