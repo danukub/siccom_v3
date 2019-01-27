@@ -20,9 +20,9 @@ An article in which this model is applied and described in more detail can be fo
 
 <p>
   <img src="https://github.com/danukub/siccom_v3/blob/master/ReefView_siccom.png" alt="reef view pic" width="150" height="150"              align="left" > 
-  <a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.jar" 
-  alt="Runnable JAR File (siccom_os_v3.jar) within the project" />
-    Runnable JAR File
+  <a href="https://github.com/danukub/siccom_v3/blob/master/siccom_os_v3.zip" 
+  alt="Runnable program" />
+    Runnable program
   </a> 
   to play with the simulation. You can also alter model parameters and investigate their influence on the virtual coral community.
 </p>
@@ -37,9 +37,12 @@ An article in which this model is applied and described in more detail can be fo
 - fragProb & fragRange
 - breakageProb
 
-### Important
+### Installation
+- just uncompress the ZIP archiver
+- make sure the "species directoy is placed in the same directory as "siccom_os_v3.jar"
+
+#### Important
 - You have to have a Java Runtime Environment installed
-- The "species" directory has to be placed in the same directory as "siccom_os_v3.jar"
 
 ### Run
 double-click the jar file
