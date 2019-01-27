@@ -50,13 +50,6 @@ An article in which this model is applied and described in more detail can be fo
 #### Important
 - You have to have a Java Runtime Environment installed
 
-### Run the program
-double-click the jar file
-
-or use the command line (e.g. bash)
-```bash
-$#: java -jar siccom_os_v3.jar
-``` 
 <br/>
 
 ## Required JAR files to make it run in your favorite IDE
