@@ -38,9 +38,14 @@ An article in which this model is applied and described in more detail can be fo
 - fragProb & fragRange
 - breakageProb
 
-### Installation
-- just uncompress the ZIP archiver
-- make sure the "species directoy is placed in the same directory as "siccom_os_v3.jar"
+### Run the program
+1. Just uncompress the ZIP archive and make sure the "species" directoy is placed in the same directory as "siccom_os_v3.jar"
+2.  - double-click the jar file
+
+    - or use the command line (e.g. bash)
+    ```bash
+    $#: java -jar siccom_os_v3.jar
+    ``` 
 
 #### Important
 - You have to have a Java Runtime Environment installed
